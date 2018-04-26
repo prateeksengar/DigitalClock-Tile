@@ -1,0 +1,66 @@
+.background {
+  viewport-fill: black;
+}
+
+#myHour {
+  font-size: 64;
+  font-family: Colfax-Medium;
+  text-length: 2;
+  text-anchor: middle;
+  x: 33%;
+  y: 45%;
+  fill: black;
+}
+
+#myHour2 {
+  font-size: 64;
+  font-family: Colfax-Medium;
+  text-length: 2;
+  text-anchor: middle;
+  x: 66%;
+  y: 45%;
+  fill: black;
+}
+
+
+#myMin {
+  font-size: 64;
+  font-family: Colfax-Medium;
+  text-length: 2;
+  text-anchor: middle;
+  x: 33%;
+  y: 81%;
+  fill: black;
+}
+
+
+#myMin2 {
+  font-size: 64;
+  font-family: Colfax-Medium;
+  text-length: 2;
+  text-anchor: middle;
+  x: 66%;
+  y: 81%;
+  fill: black;
+}
+
+#myDay {
+  font-size: 24;
+  font-family: Seville-Book;
+  text-length: 12;
+  text-anchor: middle;
+  x: 50%;
+  y: 19%;
+  fill: black;
+}
+
+#myDate {
+  font-size: 16;
+  font-family: Seville-Condensed;
+  text-length: 24;
+  text-anchor: middle;
+  x: 50%;
+  y: 10%;
+  fill: black;
+}
+

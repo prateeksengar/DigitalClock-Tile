@@ -1,0 +1,13 @@
+<svg class="background">
+  <image href="ClockFaceRose.jpg" load="sync" id="myBG"/>
+  <text id="myHour" />
+  <text id="myHour2" />
+  
+  <text id="myMin" />
+  <text id="myMin2" />
+  
+  <text id="myDay" />
+  <text id="myDate" />
+  
+  
+</svg>
